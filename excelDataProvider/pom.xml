@@ -74,4 +74,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<scm>
+		<url>https://github.com/msrikanthreddy6/excelDataProvider.git</url>
+	</scm>
 </project>
